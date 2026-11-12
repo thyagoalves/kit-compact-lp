@@ -1,0 +1,20 @@
+# Large RAW files & backups
+RAW/
+raw/
+refs/
+*.psd
+assets/*.psd
+
+# Working / reference files
+LPVision5Smart.html
+check_css_diff.js
+compare_css.js
+compare_lines.js
+find_legal.py
+inspect_box.js
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+*.tmp
+.vscode/
